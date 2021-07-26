@@ -20,6 +20,7 @@
     "@snowpack/app-scripts-react": "^2.0.1",
     "@snowpack/plugin-babel": "^2.1.7",
     "@snowpack/plugin-react-refresh": "^2.5.0",
+    "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^12.0.0",
     "eslint": "^7.31.0",
     "eslint-config-prettier": "^8.3.0",
