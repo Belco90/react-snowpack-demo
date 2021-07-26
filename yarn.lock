@@ -43,7 +43,7 @@
     semver "^5.4.1"
     source-map "^0.5.0"
 
-"@babel/core@^7.0.0", "@babel/core@^7.1.0", "@babel/core@^7.10.5", "@babel/core@^7.14.8", "@babel/core@^7.7.5":
+"@babel/core@^7.0.0", "@babel/core@^7.1.0", "@babel/core@^7.10.5", "@babel/core@^7.7.5":
   version "7.14.8"
   resolved "https://registry.yarnpkg.com/@babel/core/-/core-7.14.8.tgz#20cdf7c84b5d86d83fac8710a8bc605a7ba3f010"
   integrity sha512-/AtaeEhT6ErpDhInbXmjHcUQXH0L0TEgscfcxk1qbOvLuKCa5aZT0SOOtDKFY96/CLROwbLSKyFor6idgNaU4Q==
@@ -919,7 +919,7 @@
     "@babel/plugin-transform-react-jsx-self" "^7.9.0"
     "@babel/plugin-transform-react-jsx-source" "^7.9.0"
 
-"@babel/preset-react@^7.10.4", "@babel/preset-react@^7.14.5":
+"@babel/preset-react@^7.10.4":
   version "7.14.5"
   resolved "https://registry.yarnpkg.com/@babel/preset-react/-/preset-react-7.14.5.tgz#0fbb769513f899c2c56f3a882fa79673c2d4ab3c"
   integrity sha512-XFxBkjyObLvBaAvkx1Ie95Iaq4S/GUEIrejyrntQ/VCMKUYvKLoyKxOBzJ2kjA3b6rC9/KL6KXfDC2GqvLiNqQ==
@@ -1478,7 +1478,7 @@
     babel-preset-react-app "^9.1.2"
     react-app-polyfill "^1.0.6"
 
-"@snowpack/plugin-babel@^2.1.4", "@snowpack/plugin-babel@^2.1.7":
+"@snowpack/plugin-babel@^2.1.4":
   version "2.1.7"
   resolved "https://registry.yarnpkg.com/@snowpack/plugin-babel/-/plugin-babel-2.1.7.tgz#8b6c621b9b702510bf6bc5a460f1860ddcc03b6f"
   integrity sha512-q8Zz6nqJ/CHaWccvNCTGP95d/lQLrImiBfJCagO4xcN9p53SUqapd9Yl3uMFeqvrgZP+kFK1vo/edifZWFLo5Q==
