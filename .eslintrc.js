@@ -10,6 +10,7 @@ module.exports = {
     'plugin:react-hooks/recommended',
     'plugin:jsx-a11y/recommended',
     'plugin:jest/recommended',
+    'plugin:testing-library/react',
     'prettier',
   ],
   parserOptions: {
