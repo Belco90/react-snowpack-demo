@@ -10,8 +10,13 @@ module.exports = {
     'plugin:react-hooks/recommended',
     'plugin:jsx-a11y/recommended',
     'plugin:jest/recommended',
-    'plugin:testing-library/react',
     'prettier',
+  ],
+  overrides: [
+    {
+      files: ['**/__tests__/**/*.[jt]s?(x)', '**/?(*.)+(spec|test).[jt]s?(x)'],
+      extends: ['plugin:testing-library/react'],
+    },
   ],
   parserOptions: {
     ecmaFeatures: {
