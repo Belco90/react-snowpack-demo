@@ -24,6 +24,5 @@ module.exports = {
       version: 'detect',
     },
   },
-  plugins: ['react'],
   rules: {},
 }
